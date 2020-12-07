@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard_size_margin">8dp</dimen>
+    <dimen name="standard_text_size">16sp</dimen>
+    <dimen name="offer_image_width_height">80dp</dimen>
+</resources>

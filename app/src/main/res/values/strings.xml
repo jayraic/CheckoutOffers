@@ -1,0 +1,6 @@
+<resources>
+<string name="app_name">CheckoutOffers</string>
+<string name="thumbnail_content_description">thumbnail</string>
+<string name="cash_back_text">$%.2f Cash Back</string>
+<string name="error_message">We Had problem retrieving offers, stay tuned while we work on it!</string>
+</resources>

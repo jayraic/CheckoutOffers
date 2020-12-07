@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1aeac58f-0279-4b04-8798-395b0803d8d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_XL_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lFTNMAr5D0in7HChegStf6y2Ka" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
+    <property name="DEBUGGABLE_PROCESS" value="com.jayraic.checkoutoffers" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_XL_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-05T21:46:35.913Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../Library/Android/sdk" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.jayraic.checkoutoffers.ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android JUnit.CheckoutOfferViewModelTest.testGetAllOffers">
+    <configuration name="CheckoutOfferViewModelTest.testGetAllOffers" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jayraic.checkoutoffers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jayraic.checkoutoffers" />
+      <option name="MAIN_CLASS_NAME" value="com.jayraic.checkoutoffers.CheckoutOfferViewModelTest" />
+      <option name="METHOD_NAME" value="testGetAllOffers" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamViewModelTest.simulateApi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jayraic.checkoutoffers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jayraic.checkoutoffers" />
+      <option name="MAIN_CLASS_NAME" value="com.jayraic.checkoutoffers.TeamViewModelTest" />
+      <option name="METHOD_NAME" value="simulateApi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.CheckoutOfferViewModelTest.testGetAllOffers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1aeac58f-0279-4b04-8798-395b0803d8d2" name="Default Changelist" comment="" />
+      <created>1607191798497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607191798497</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="273" y="160" key="#PSD" timestamp="1607314501354">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="273" y="160" key="#PSD/0.23.1440.797@0.23.1440.797" timestamp="1607314501353" />
+    <state x="1014" y="266" key="#com.intellij.ide.util.MemberChooser" timestamp="1607284941791">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="1014" y="266" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1607284941791" />
+    <state x="1014" y="266" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1607196481188" />
+    <state x="486" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607288425222">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="486" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.797@0.23.1440.797" timestamp="1607288425222" />
+    <state x="501" y="81" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1607196055872">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="501" y="81" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1607196055872" />
+    <state x="577" y="312" width="766" height="508" key="#xdebugger.evaluate" timestamp="1607313976667">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="577" y="312" width="766" height="508" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1607313976667" />
+    <state x="315" y="183" key="AndroidCreateResourceFileDialog" timestamp="1607285152396">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="315" y="183" key="AndroidCreateResourceFileDialog/0.23.1440.797@0.23.1440.797" timestamp="1607285152396" />
+    <state x="315" y="183" key="AndroidCreateResourceFileDialog/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1607197680391" />
+    <state x="563" y="194" key="AndroidProcessChooserDialog" timestamp="1607205374836">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="563" y="194" key="AndroidProcessChooserDialog/0.23.1440.797@0.23.1440.797" timestamp="1607205374836" />
+    <state width="1400" height="211" key="GridCell.Tab.0.bottom" timestamp="1607314955586">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1400" height="211" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1607314955586" />
+    <state width="1400" height="211" key="GridCell.Tab.0.center" timestamp="1607314955585">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1400" height="211" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1607314955585" />
+    <state width="1400" height="211" key="GridCell.Tab.0.left" timestamp="1607314955584">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1400" height="211" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1607314955584" />
+    <state width="1400" height="211" key="GridCell.Tab.0.right" timestamp="1607314955586">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1400" height="211" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1607314955586" />
+    <state width="1400" height="239" key="GridCell.Tab.1.bottom" timestamp="1607314676192">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1400" height="239" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1607314676192" />
+    <state width="1400" height="239" key="GridCell.Tab.1.center" timestamp="1607314676190">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1400" height="239" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1607314676190" />
+    <state width="1400" height="239" key="GridCell.Tab.1.left" timestamp="1607314676190">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1400" height="239" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1607314676190" />
+    <state width="1400" height="239" key="GridCell.Tab.1.right" timestamp="1607314676190">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1400" height="239" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1607314676190" />
+    <state x="211" y="60" key="SettingsEditor" timestamp="1607315894850">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="211" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1607315894850" />
+    <state x="509" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607316312991">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="509" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.797@0.23.1440.797" timestamp="1607316312991" />
+    <state width="300" height="36" key="javadoc.popup.new" timestamp="1607313832842">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="300" height="36" key="javadoc.popup.new/0.23.1440.797@0.23.1440.797" timestamp="1607313832842" />
+    <state width="300" height="36" key="javadoc.popup.new/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1607197717453" />
+    <state x="365" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1607315656724">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="365" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1607315656724" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/jayraic/checkoutoffers/viewmodel/CheckoutOfferViewModel.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/jayraic/checkoutoffers/ui/CheckoutOfferAdapter.kt</url>
+          <line>33</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
